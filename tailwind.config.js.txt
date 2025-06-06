@@ -1,0 +1,28 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}"
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+Salve o arquivo.
+
+O que você NÃO deve fazer:
+Não cole esse código direto no terminal.
+
+Não tente rodar o arquivo .js como comando.
+
+Se quiser, posso te ajudar a montar o arquivo .js certinho para você só copiar e colar. Quer?
+
+
+
+
+
+
+
+
+
